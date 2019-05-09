@@ -1,55 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="144"
-   height="144"
-   viewBox="0 0 144 144"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="selection-big.svg"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   id="svg2"
+   viewBox="0 0 144 144"
+   height="144"
+   width="144">
   <defs
      id="defs4">
     <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4184">
+       id="filter4184"
+       style="color-interpolation-filters:sRGB">
       <feBlend
-         inkscape:collect="always"
-         mode="multiply"
+         id="feBlend4186"
          in2="BackgroundImage"
-         id="feBlend4186" />
+         mode="multiply" />
     </filter>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="-215.92857"
-     inkscape:cy="111.27448"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer2"
-     showgrid="false"
-     units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="713"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -58,7 +29,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title>Munlika</dc:title>
@@ -88,32 +59,36 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
+     style="display:none;filter:url(#filter4184)"
      transform="translate(0,-908.36216)"
-     style="display:none;filter:url(#filter4184)">
+     id="layer1">
     <rect
-       style="opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4136"
-       width="144"
-       height="144"
+       y="908.36218"
        x="0"
-       y="908.36218" />
+       height="144"
+       width="144"
+       id="rect4136"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Layer 2"
-     style="display:inline">
+     style="display:inline"
+     id="layer2">
     <rect
-       style="display:inline;opacity:1;fill:#c0daff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4367-9"
-       width="132"
-       height="132"
-       x="6"
-       y="6"
+       ry="2.0000002"
        rx="2.0000002"
-       ry="2.0000002" />
+       y="6"
+       x="6"
+       height="132"
+       width="132"
+       id="rect4367-9"
+       style="display:inline;opacity:1;fill:#c0daff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path12"
+       d="M 6.5432886,136.68981 C 6.3560418,136.19873 6.2857726,106.70766 6.3871349,71.154091 L 6.57143,6.5112343 h 65.357143 65.357147 l 0.1823,65.5357147 0.18232,65.535711 H 72.267036 c -51.648875,0 -65.4548133,-0.18755 -65.7237474,-0.89285 z"
+       style="fill:#458588;stroke-width:0.71428573;fill-opacity:1" />
+    <path
+       id="path822"
+       d="M 21.750001,137.04773 6.57143,136.83996 V 71.854171 6.8683771 H 71.928573 137.28572 V 72.22552 137.58266 l -50.178576,-0.16358 c -27.598214,-0.09 -57.008928,-0.25708 -65.357143,-0.37135 z"
+       style="fill:#458588;fill-opacity:1;stroke-width:0.71428573" />
   </g>
 </svg>
